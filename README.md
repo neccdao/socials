@@ -15,3 +15,4 @@ This is a collection of the long form content to collaborate on and publish.
 - [Github](https://github.com/necc-protocol)
 - [Gitbook](https://necc.gitbook.io/necc)
 - Ghost - TBD
+- Forums - TBD
