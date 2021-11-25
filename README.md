@@ -12,4 +12,4 @@ This is a collection of the long form content to collaborate on and publish.
 
 - Discord
 - Twitter
-- Medium
+- Ghost
